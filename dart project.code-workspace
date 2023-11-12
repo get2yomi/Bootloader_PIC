@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Project test",
+			"path": "../Project test"
+		},
+		{
+			"name": "bootloader_new",
+			"path": "../bootloader_new"
+		},
+		{
+			"name": "bootloader_new-1",
+			"path": "../bootloader_new-1"
+		},
+		{
+			"name": "bootloader_new-2",
+			"path": "../bootloader_new-2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f401xe.h": "c",
+			"system_stm32f4xx.h": "c"
+		}
+	}
+}
